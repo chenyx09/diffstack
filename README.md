@@ -1,8 +1,6 @@
 # Differentiable Stack
 
-Impements Categorical Traffic Transformer in the environment of diffstack.
-
-Paper [pdf](https://arxiv.org/abs/2311.18307)
+Implements Categorical Traffic Transformer in the environment of diffstack.
 
 ## Setup 
 
